@@ -1,5 +1,5 @@
 ## Introduction
-The Human Resources department at the telecom client is highly committed to diversity and inclusion, with a strong focus on improving gender balance within the organization. Despite their ongoing efforts, progress has been slow, leading to a deeper investigation to understand the factors contributing to this stagnation.
+The HR department at the telecom client is highly committed to diversity and inclusion, with a strong focus on improving gender balance within the organization. Despite their ongoing efforts, progress has been slow, leading to a deeper investigation to understand the factors contributing to this stagnation.
 
 ## Methodology
 
@@ -58,9 +58,11 @@ Turnover:
 
 ## Conclusion
 
-HR teamm should focus on:
-
-
-
+HR team should focus on:
+- Encouraging early career development for women with mentorship programs that guide them toward executive roles.
+- Enhancing workplace flexibility through hybrid models and flexible working hours, particularly for those women balancing career and family responsibilities.
+- Regularly measuring progress through diversity metrics and adjust recruitment, promotion, and retention strategies based on data insights.
+- Conducting regular feedback sessions and employee engagement surveys to understand what women need in terms of inclusivity, flexibility, and advancement. Tailor retention strategies based on this data.
+- Addressing potential unconscious biases in performance evaluations by conducting bias training and implementing more structured performance assessments.
 
 [Check out Live Dashboard here!](https://app.powerbi.com/view?r=eyJrIjoiZWI1MzQyNGItNmM4Zi00YmE1LWFiMjAtODkzOTc4MWU4NzY4IiwidCI6Ijg2MzI4YTBhLWRhMGMtNGQzZS04OTE5LTc4OTcwMTZiMzNiMyJ9&pageName=11707f10eb807484d93e)
